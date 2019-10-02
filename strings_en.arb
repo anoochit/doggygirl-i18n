@@ -1,0 +1,35 @@
+{
+  "appName" : "Doggy Girl",
+  "appSlogan" : "Find your girlfriend tonight",
+
+  "signInWithGoogle" : "Sign in with Google",
+
+  "topGirls" : "Top girls",
+  "girlsYouLike" : "Girls you like",
+  "newGirls" : "New girls",
+
+  "noConnectivity" : "No Internet!",
+  "pleaseSetupInternetConnection" : "Please setup the internet connection.",
+
+  "tapBackAgainToLeave" : "Tap back again to exit",
+
+  "bottomNavHome":"Home",
+  "bottomNavNearMe":"Near Me",
+  "bottomNavChat" : "Chat",
+  "bottomNavProfile" : "Profile",
+
+  "accountBalance" : "Account Balance",
+
+  "menuTopUp": "Top-up",
+  "menuTransfer" : "Transfer",
+  "menuQrCode" : "QR Code",
+  "menuQrReader" : "QR Reader",
+  "menuHistory" : "History",
+  "menuProfile" : "Profile",
+  "menuSignout" : "Signout",
+
+  "profileImages" : "Images",
+
+  "walletQRCode" : "Wallet QRCode"
+
+}
