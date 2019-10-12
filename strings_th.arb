@@ -31,6 +31,11 @@
 
   "profileImages" : "Images",
 
-  "walletQRCode" : "Wallet QRCode"
+  "walletQRCode" : "Wallet QRCode",
+
+  "labelVersion" : "Version : ",
+  "buttonClose" : "Close",
+
+  "typeYourMessage": "Type your message..."
 
 }
