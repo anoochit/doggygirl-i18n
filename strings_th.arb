@@ -22,6 +22,7 @@
 
   "menuTopUp": "Top-up",
   "menuTransfer" : "Transfer",
+  "menuWithdraw" : "Withdraw",
   "menuQrCode" : "QR Code",
   "menuQrReader" : "QR Reader",
   "menuHistory" : "History",
@@ -36,6 +37,13 @@
   "labelVersion" : "Version : ",
   "buttonClose" : "Close",
 
-  "typeYourMessage": "Type your message..."
+  "typeYourMessage": "Type your message...",
+  "titleChats": "Chats",
+  "buttonChat" : "Chat",
+
+  "buttonPaywithCreditCard" : "Pay with Credit Card",
+  "paymentStatus" : "Payment status",
+  "paymentReceived" : "Payment received, thank you.",
+  "paymentFailed" : "Payment failed, please try again."
 
 }
