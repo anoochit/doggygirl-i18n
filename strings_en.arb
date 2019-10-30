@@ -42,7 +42,7 @@
   "titleChats": "Chats",
   "buttonChat" : "Chat",
 
-  "buttonPaywithCreditCard" : "Pay with Credit Card",
+  "buttonPaywithCreditCard" : "Pay ",
   "paymentStatus" : "Payment status",
   "paymentReceived" : "Payment received, thank you.",
   "paymentFailed" : "Payment failed, please try again."
