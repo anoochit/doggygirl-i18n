@@ -27,7 +27,7 @@
   "menuQrReader" : "QR Reader",
   "menuHistory" : "History",
   "menuProfile" : "Profile",
-  "menuSignout" : "Signout",
+  "menuSignout" : "Signut",
   "menuInfo" : "Info",
   "menuVerifyByPhone" : "Verify",
 
@@ -45,6 +45,64 @@
   "buttonPaywithCreditCard" : "Pay ",
   "paymentStatus" : "Payment status",
   "paymentReceived" : "Payment received, thank you.",
-  "paymentFailed" : "Payment failed, please try again."
+  "paymentFailed" : "Payment failed, please try again.",
 
+  "topUpAmount" : "Top-up amount",
+  "optionAmount1000THB" : "1,000 THB",
+  "optionAmount2000THB" : "2,000 THB",
+  "optionAmount4000THB": "4,000 THB",
+  "optionAmount5000THB" : "5,000 THB",
+
+  "wantToExit" : "Do you want to exit?",
+  "wantToExitApp" :  "Do you want to exit an application ?",
+  "yes" : "Yes",
+  "no" : "No",
+
+  "verifyYourMembership" : "Verify your membership",
+  "becomePoster" : "Become a poster",
+  "getVerifyCode" : "Get verify code",
+  "accountVerified" : "Your account had been verified",
+  "error" : "Error",
+  "cannotAuthentication" : "Cannot authentication with your SMS code.",
+  "verify" : "Verify",
+  "smsCode" : "SMS Code",
+  "enterYourPhoneNumber" : "Enter your phone number to verify your membership.",
+  "yourAccountVerified" : "Your account had been verified",
+  "thankyouForVerified" : "Thank you, for verifyed your membership account, enjoin to use this app or you can becom a poster.",
+  "verifyPhoneNumber" : "Verify your phone number",
+  "phoneNumberVerified" : "Your phone number had beed verified",
+  "oK": "OK",
+  "km" : " km.",
+
+  "editProfile" : "Edit Profile",
+  "saveProfile" : "Save profile",
+  "pickYourLocation" : "Pick your location",
+
+  "bioHint" : "I am a good guy",
+  "bioLabel" : "Bio",
+
+  "costHint" : "2500.00",
+  "costLabel" : "Cost",
+
+  "sizeHint" : "32/24/36",
+  "sizeLabel" : "Size (Bust/Waist/Hip)",
+
+  "weightHeightHint" : "32/24/36",
+  "weightHeightLabel" : "Weight/Height",
+
+  "phoneNumberHint" : "+1 650 500 1234",
+  "phoneNumberLabel" : "Phone Number",
+
+  "emailHint" : "john.doe@gmail.com",
+  "emailLabel" : "E-mail",
+
+  "ageHint" : "20",
+  "ageLabel" : "Age",
+
+  "genderLabel" : "Gender",
+
+  "displayNameHint" : "John Doe",
+  "displayNameLabel" : "Display Name",
+
+  "buttonReview" : "Review"
 }
