@@ -16,6 +16,7 @@
   "bottomNavHome":"Home",
   "bottomNavNearMe":"Near Me",
   "bottomNavChat" : "Chat",
+  "bottomNavReview" : "Review",
   "bottomNavProfile" : "Profile",
 
   "accountBalance" : "Account Balance",
@@ -26,8 +27,8 @@
   "menuQrCode" : "QR Code",
   "menuQrReader" : "QR Reader",
   "menuHistory" : "History",
-  "menuProfile" : "Profile",
-  "menuSignout" : "Signut",
+  "menuProfile" : "Edit Profile",
+  "menuSignout" : "SignOut",
   "menuInfo" : "Info",
   "menuVerifyByPhone" : "Verify",
 
@@ -102,5 +103,17 @@
   "genderLabel" : "Gender",
 
   "displayNameHint" : "John Doe",
-  "displayNameLabel" : "Display Name"
+  "displayNameLabel" : "Display Name",
+
+  "buttonReview" : "Review",
+
+  "menuPicture" : "Upload image",
+
+  "buttonPickupImage" :"Browse image & upload",
+
+  "titleReviews" : "Reviews",
+
+  "kg" : " kg",
+  "cm" : " cm",
+  "inches" : " in"
 }

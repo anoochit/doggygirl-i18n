@@ -16,6 +16,7 @@
   "bottomNavHome":"Home",
   "bottomNavNearMe":"Near Me",
   "bottomNavChat" : "Chat",
+  "bottomNavReview" : "Review",
   "bottomNavProfile" : "Profile",
 
   "accountBalance" : "Account Balance",
@@ -108,5 +109,11 @@
 
   "menuPicture" : "Upload image",
 
-  "buttonPickupImage" :"Browse image & upload"
+  "buttonPickupImage" :"Browse image & upload",
+
+  "titleReviews" : "Reviews",
+
+  "kg" : " kg",
+  "cm" : " cm",
+  "inches" : " in"
 }
