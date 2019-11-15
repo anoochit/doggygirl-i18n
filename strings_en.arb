@@ -78,42 +78,45 @@
   "editProfile" : "Edit Profile",
   "saveProfile" : "Save profile",
   "pickYourLocation" : "Pick your location",
-
   "bioHint" : "I am a good guy",
   "bioLabel" : "Bio",
-
   "costHint" : "2500.00",
   "costLabel" : "Cost",
-
   "sizeHint" : "32/24/36",
   "sizeLabel" : "Size (Bust/Waist/Hip)",
-
   "weightHeightHint" : "32/24/36",
   "weightHeightLabel" : "Weight/Height",
-
   "phoneNumberHint" : "+1 650 500 1234",
   "phoneNumberLabel" : "Phone Number",
-
   "emailHint" : "john.doe@gmail.com",
   "emailLabel" : "E-mail",
-
   "ageHint" : "20",
   "ageLabel" : "Age",
-
   "genderLabel" : "Gender",
-
   "displayNameHint" : "John Doe",
   "displayNameLabel" : "Display Name",
 
   "buttonReview" : "Review",
 
   "menuPicture" : "Upload image",
-
   "buttonPickupImage" :"Browse image & upload",
 
   "titleReviews" : "Reviews",
 
   "kg" : " kg",
   "cm" : " cm",
-  "inches" : " in"
+  "inches" : " in",
+
+  "titleTodayReviews" : "Today's reviews",
+  "titleAllReviews" : "All reviews",
+
+  "searchPlaceHere" : "Enter place name here",
+
+  "labelWeight" : "Weight",
+  "labelHeight" : "Height",
+  "labelBust" : "Bust",
+  "labelWaist" : "Waist",
+  "labelHip" : "Hip"
+
+
 }
