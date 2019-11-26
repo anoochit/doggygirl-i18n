@@ -116,7 +116,12 @@
   "labelHeight" : "Height",
   "labelBust" : "Bust",
   "labelWaist" : "Waist",
-  "labelHip" : "Hip"
+  "labelHip" : "Hip",
 
+  "buttonCancel" : "Cancel",
+  "buttonOk" : "Ok",
+
+  "titleChangeStatus" : "Change status to poster",
+  "titleChangeSatatusDescription" : "Do you want to change your status to poster? When you changee status to poster, it cannot changed back"
 
 }
