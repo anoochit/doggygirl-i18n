@@ -93,5 +93,23 @@
   "labelHeight" : "ความสูง",
   "labelBust" : "หน้าอก",
   "labelWaist" : "เอว",
-  "labelHip" : "สะโพก"
+  "labelHip" : "สะโพก",
+
+  "buttonCancel" : "ยกเลิก",
+  "buttonOk" : "ตกลง",
+
+  "titleChangeStatus" : "เปลี่ยนสถานะ",
+  "titleChangeSatatusDescription" : "คุณต้องการเปลี่ยนสถานะเป็นผู้โพสใช่หรือไม่ หากเปลี่ยนสถานะแล้วไม่สามารถเปลี่ยนกลับคือได้",
+
+  "notificationFrom" : "ข้อความจาก ",
+  "youGotPicture" : "คุณได้รับรูปภาพ",
+  "youGotSticker" : "คุณได้รับสติกเกอร์",
+
+  "menuFeedback" : "ข้อเสนอแนะ",
+
+  "searchHint" : "ใส่ชื่อที่ต้องการค้นหาที่นี่",
+
+  "updateVersionTitle" : "อัพเดท",
+
+  "updateVersionDescription" : "มีรุ่นใหม่ออกมาแล้ว กรุณาอัพเดทแอป"
 }

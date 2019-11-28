@@ -122,6 +122,21 @@
   "buttonOk" : "Ok",
 
   "titleChangeStatus" : "Change status to poster",
-  "titleChangeSatatusDescription" : "Do you want to change your status to poster? When you changee status to poster, it cannot changed back"
+  "titleChangeSatatusDescription" : "Do you want to change your status to poster? When you changee status to poster, it cannot changed back",
+
+  "notificationFrom" : "Message from ",
+  "youGotPicture" : "You got picture",
+  "youGotSticker" : "You got sticker",
+
+  "menuFeedback" : "Feedback",
+
+  "searchHint" : "Enter your keyword here",
+
+  "updateVersionTitle" : "Update",
+
+  "updateVersionDescription" : "New version is available, please update"
+
+
+
 
 }
