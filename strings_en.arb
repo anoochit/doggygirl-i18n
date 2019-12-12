@@ -1,5 +1,5 @@
 {
-  "appName" : "Doggy Girl",
+  "appName" : "DoggyGirl",
   "appSlogan" : "Find your girlfriend tonight",
 
   "signInWithGoogle" : "Sign in with Google",
@@ -84,7 +84,7 @@
   "costLabel" : "Cost",
   "sizeHint" : "32/24/36",
   "sizeLabel" : "Size (Bust/Waist/Hip)",
-  "weightHeightHint" : "32/24/36",
+  "weightHeightHint" : "43/160",
   "weightHeightLabel" : "Weight/Height",
   "phoneNumberHint" : "+1 650 500 1234",
   "phoneNumberLabel" : "Phone Number",
@@ -98,7 +98,7 @@
 
   "buttonReview" : "Review",
 
-  "menuPicture" : "Upload image",
+  "menuPicture" : "Manage pictures",
   "buttonPickupImage" :"Browse image & upload",
 
   "titleReviews" : "Reviews",
@@ -134,9 +134,29 @@
 
   "updateVersionTitle" : "Update",
 
-  "updateVersionDescription" : "New version is available, please update"
+  "updateVersionDescription" : "New version is available, please update",
 
+  "deleteImageTitle" : "Delete image",
 
+  "deleteImageDescription" : "Do you want delete this image?",
 
+  "loadData" : "Loading...",
 
+  "noBody" : "Nobody",
+
+  "noComment" : "N/A",
+
+  "noData" : "no data",
+
+  "enterPasscode" : "Enter Passcode",
+
+  "enterPasscodeAgain" : "Enter Passcode Again",
+
+  "rateLabel" : "Rate",
+
+  "reviewHint" : "Enter review here",
+
+  "submitReview" : "Submit review",
+
+  "menuPasscode" : "Setup Passcode"
 }
