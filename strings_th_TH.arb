@@ -1,5 +1,5 @@
 {
-  "appName": "Doggy Girl",
+  "appName": "DoggyGirl",
   "appSlogan": "หาแฟนของคุณคืนนี้",
   "signInWithGoogle": "เข้าสู่ระบบด้วย Google",
   "topGirls": "ยอดนิยม",
@@ -68,7 +68,7 @@
   "costLabel": "ราคา",
   "sizeHint": "32/24/36",
   "sizeLabel": "ขนาด (หน้าอก / เอว / สะโพก)",
-  "weightHeightHint": "32/24/36",
+  "weightHeightHint": "43/160",
   "weightHeightLabel": "น้ำหนัก / ส่วนสูง",
   "phoneNumberHint": "+1 650 500 1234",
   "phoneNumberLabel": "หมายเลขโทรศัพท์",
@@ -80,9 +80,9 @@
   "displayNameHint": "จอห์นโด",
   "displayNameLabel": "ชื่อที่แสดง",
   "buttonReview": "ทบทวน",
-  "menuPicture": "อัพโหลดภาพ",
+  "menuPicture": "จัดการรูปภาพ",
   "buttonPickupImage": "เรียกดูรูปภาพและอัพโหลด",
-  "titleReviews": "ความคิดเห็น",
+  "titleReviews": "รีวิว",
   "kg": " กก.",
   "cm": " ซม.",
   "inches": " นิ้ว",
@@ -111,5 +111,17 @@
 
   "updateVersionTitle" : "อัพเดท",
 
-  "updateVersionDescription" : "มีรุ่นใหม่ออกมาแล้ว กรุณาอัพเดทแอป"
+  "updateVersionDescription" : "มีรุ่นใหม่ออกมาแล้ว กรุณาอัพเดทแอป",
+
+  "deleteImageTitle" : "ลบรูปภาพ",
+
+  "deleteImageDescription" : "คุณต้องการลบรูปภาพใช่หรือไม่",
+
+  "loadData" : "กำลังโหลดข้อมูล...",
+
+  "noBody" : "นิรนาม",
+
+  "noComment" : "ไม่ระบุ",
+
+  "noData" : "ไม่มีข้อมูล"
 }
