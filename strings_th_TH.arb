@@ -11,8 +11,8 @@
   "bottomNavHome": "บ้าน",
   "bottomNavNearMe": "ใกล้ฉัน",
   "bottomNavChat": "พูดคุย",
-  "bottomNavReview": "ทบทวน",
-  "bottomNavProfile": "ข้อมูลส่วนตัว",
+  "bottomNavReview": "รีวิว",
+  "bottomNavProfile": "บัญชี",
   "accountBalance": "ยอดเงินในบัญชี",
   "menuTopUp": "เติม",
   "menuTransfer": "โอน",
@@ -79,7 +79,7 @@
   "genderLabel": "เพศ",
   "displayNameHint": "จอห์นโด",
   "displayNameLabel": "ชื่อที่แสดง",
-  "buttonReview": "ทบทวน",
+  "buttonReview": "รีวิว",
   "menuPicture": "จัดการรูปภาพ",
   "buttonPickupImage": "เรียกดูรูปภาพและอัพโหลด",
   "titleReviews": "รีวิว",
@@ -123,5 +123,19 @@
 
   "noComment" : "ไม่ระบุ",
 
-  "noData" : "ไม่มีข้อมูล"
+  "noData" : "ไม่มีข้อมูล",
+
+
+  "enterPasscode" : "ใส่รหัสผ่าน",
+
+  "enterPasscodeAgain" : "ใส่รหัสผ่านอีกครั้ง",
+
+  "rateLabel" : "คะแนน",
+
+  "reviewHint" : "เขียนรีวิวตรงนี้",
+
+  "submitReview" : "ส่งข้อมูล",
+
+  "menuPasscode" : "ตั้งรหัสผ่าน",
+  "setPasscode"  : "ใส่รหัสผ่าน"
 }

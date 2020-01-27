@@ -158,5 +158,12 @@
 
   "submitReview" : "Submit review",
 
-  "menuPasscode" : "Setup Passcode"
+  "menuPasscode" : "Setup Passcode",
+
+  "setPasscode"  : "Set Passcode",
+
+  "infoTitle" : "Info",
+  "savedPasscode" : "Passcode has been saved, use you passcode to access this app.",
+  "pleaseEnterPasscodeAgain" : "Please enter passcode again.",
+  "invalidPasscode" : "Invalid passcode, please enter passcode again."
 }
